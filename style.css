@@ -12,6 +12,7 @@ nav{
     display: flex;
     box-sizing: border-box;
     text-align: center;
+    flex-direction: row-reverse;
 }
 ul{
     padding: 0;
